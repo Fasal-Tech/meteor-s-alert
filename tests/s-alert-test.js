@@ -1,4 +1,5 @@
 'use strict';
+import chai from 'chai';
 
 var sAlertRender = function () {
     var body = document.getElementsByTagName('body')[0];
