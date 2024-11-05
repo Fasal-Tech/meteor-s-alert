@@ -1,5 +1,5 @@
 'use strict';
-import chai from 'chai';
+const chai = require('chai');
 
 var sAlertRender = function () {
     var body = document.getElementsByTagName('body')[0];
